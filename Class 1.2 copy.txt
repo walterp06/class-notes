@@ -1,0 +1,28 @@
+
+12/10/20
+
+Class 1.2
+
+* It is better to make folders and file names in camelcase, dashes or underscores in the place of spaces
+
+* Always pull a backup of a repository before pushing an update
+
+* Add a descriptive readme.md to each Repository
+
+* To clone a repo to a file
+
+   * $cd (desired location)
+
+   * $git clone (git url)
+
+* To push an update to github
+
+   * Git status
+
+   * Git add/rm
+
+   * Git commit -m
+
+   * Git log
+
+   * Git push

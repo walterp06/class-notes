@@ -1,0 +1,75 @@
+
+12/8/20
+
+Class 1.1
+
+
+* Do Survey posted to BCS every Sunday to give feedback on the course
+
+* Resources are provided before every lesson 
+
+* Set aside 20+ hours per week to do school work
+
+* Attend office hours often to ask questions or hear the answer to other's questions
+
+* Learn to teach yourself
+
+* Keep your goals in mind when you feel discouraged
+
+* If you take the time the support team will be more willing and able to help
+
+* Three Huge obstacles: 
+
+   * The Great Confusion (doesn’t work, don’t know why \ does work don’t know why)
+
+   * The Great Doubt (maybe i’m just dumb)
+
+   * The Great Distance (You’re in it for the long haul)
+
+* Share your discoveries in Slack to help your classmates
+
+* Coding requires persistence and confidence 
+
+* Learning feels like frustration in the moment, this helps your improvement whether you see it or not
+
+* Go fast alone, go far with a team
+
+* Google is the backbone of the industry, don't be afraid to look things up
+
+* Keep your code well commented for the benefit of yourself and anyone else working on the code
+
+* Daily class schedule
+
+   * Set objectives
+
+   * Brief background lecture
+
+   * Watch coding demos
+
+   * Code discussions
+
+   * In-class exercises
+
+   * Project work
+
+* Work outside of class as often as you can
+
+* Weekly activities are posted on gitlab, submitted to GitHub
+
+-----------------------------------------------------------------------------------------------------
+
+* pwd (shows directory) 
+
+* mkdir (create directory)
+
+* ls (lists directory contents)
+
+* cd (change directory)
+
+* cd .. (goes up one in directories)
+
+* touch filename.txt (creates txt file)
+
+* open . (opened directory)
+
+* rm filename (deletes file or directory (-r for directory))

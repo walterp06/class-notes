@@ -1,0 +1,30 @@
+12/12/20
+
+Class 1.3
+
+* Relative file paths are considered best practice, css files should be kept in a separate child folder called foldername/style.css
+
+* Remember the box model, it can be seen when inspecting on google
+
+* It is important you understand how the user will see and prioritize the info on the page based on position
+
+* CSS will accept the second rule defined in the page if there are conflicting elements
+
+* You should separate your stylesheets into separate purpose built files
+
+* Static positioning is the default position on an HTML page and will display in the order it is written on the page
+
+* Relative positioning refers to the position relative to the defined param
+
+   * top:20px; means the item will position 20px FROM the top, same with left right and bottom
+
+* Absolute position means the object will be positioned relative to the ancestor element (think box model) but the ancestor element must have its position set to relative for the child element’s absolute position to work
+
+* Fixed position is the exact coordinates measured to the web browser window, avoid.
+
+* Z-index dictates the layering of elements on the page, if no z-index is given the default is zero and 1 would be on top of zero and 2 on top of 1 etc, can be negative
+
+*  Display:none;  tells the browser to not display an element, useful for conditional elements
+
+* Ctrl + k + c comments a selected line
+
